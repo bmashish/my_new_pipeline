@@ -8,13 +8,24 @@ pipeline
 			  stages('print hi')
 			  {
 			    steps{
-                                   sh 'echo hi'				
+                       sh 'echo hi'				
 				
-				  }
+				     }
 			  }
 			  
 			   
 			
+			
+			
+			
+			
 			}
-	
+		
+		
+		
+		
+		
+		
+		
+		
 	}
